@@ -1,5 +1,3 @@
-# interactive-quiz
-
 # Interactive Quiz
 
 ## Project Title
